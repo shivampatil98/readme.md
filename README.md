@@ -1,8 +1,7 @@
-# Hi there, I'm Shivam 👋
+## Hi there, I'm Shivam 👋
 
-## About Me
-- Working on Machine Learning and Data Science project
-- Interested in GenAI
+### About Me
+- Working on Machine Learning and Data Science & GenAI projects
   
-## Tech Stack
+### Tech Stack
 Python | ML | DL | CV | NLP
