@@ -11,7 +11,7 @@ Career interests include:
 - Data Scientist
 - Data Analyst
 
-**Currently seeking** opportunities where I can apply my skills in AI, data science, and optimization to drive innovation, improve decision-making, and deliver high-quality products.
+**Currently seeking** working student/ internship opportunities where I can apply my skills in AI, data science, and optimization to drive innovation, improve decision-making, and deliver high-quality products.
 
 **Abgesehen von meiner beruflichen Laufbahn lerne ich weiterhin Deutsch und verbessere meine Sprachkenntnisse auf B1-Niveau, damit ich besser im deutschen Arbeitsumfeld zusammenarbeiten kann.**
 
@@ -24,7 +24,7 @@ Career interests include:
 ### 🤖 Machine Learning & AI
 
 - **Classical ML:** Supervised & Unsupervised Learning, Regression, Classification, Clustering, Feature Engineering, Model Evaluation  
-- **Deep Learning:** CNNs, RNNs, LSTMs, Transformers, Attention Mechanisms  
+- **Deep Learning:** CNNs, LSTMs, Transfer Learning, Transformers
 - **Computer Vision:** Image Classification, Object Detection & segmentation, Image Processing, Feature Extraction  
 - **Applied ML:** Predictive Maintenance, Optimization, Industrial Data Modeling  
 
